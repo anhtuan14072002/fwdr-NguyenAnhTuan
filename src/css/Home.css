@@ -10,3 +10,7 @@ body{
 div{
     margin: 10px 0;
 }
+.favourite{
+    display: flex;
+    justify-content: space-between;
+}

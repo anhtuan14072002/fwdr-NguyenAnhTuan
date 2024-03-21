@@ -1,0 +1,14 @@
+.allbook{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #bfb9b9;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+.allbook span{
+    font-size: 13px;
+    color: #fafaff;
+    background-color: #705f5f;
+    padding: 5px;
+    border-radius: 15px;
+}
