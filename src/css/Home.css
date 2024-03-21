@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+}
+.search-nav{
+    display: flex;
+}
+.search-nav button{
+    border-radius:5px;
+}
+div{
+    margin: 10px 0;
+}
