@@ -16,6 +16,6 @@ function AddBook(props){
                 <button className="btn btn-primary"><IoIosAddCircleOutline /> Add </button>
             </div>
         </div>
-    );
+    ); 
 }
 export default AddBook;
