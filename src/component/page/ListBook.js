@@ -14,14 +14,14 @@ function ListBook(props){
     </div>
     <div className='allbook'>
         <div className='listabook'>
-        <FaStar />Học code today
+        <FaStar /> Học code today
         </div>
         <div className='listauthor'>
         <span><b>fpt</b></span>
         </div>
     </div><div className='allbook'>
         <div className='listabook'>
-        <FaStar />Learn Angular by example
+        <FaStar /> Learn Angular by example
         </div>
         <div className='listauthor'>
         <span><b>Fpt-Aptech</b></span>
